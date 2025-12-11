@@ -1,0 +1,7 @@
+__object__:
+  path: synthrm.dataset
+  name: BlockLoader
+  args: 
+    root: 
+    block: 4
+    

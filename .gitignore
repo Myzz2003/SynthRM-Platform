@@ -1,0 +1,7 @@
+.vscode
+.DS_Store
+.temp/
+__pycache__/
+*.pyc
+synthrm/config/*.yaml
+!synthrm/config/sample.yaml
